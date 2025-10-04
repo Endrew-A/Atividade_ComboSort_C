@@ -11,7 +11,7 @@ int main(){
         return 1;
     }
     int random;
-    int max=1000;
+    int max=100000; //editar para gerar numero desejado
     srand(time(NULL));
         for(int i=0;i<max;i++){
             random = rand() % 10001;

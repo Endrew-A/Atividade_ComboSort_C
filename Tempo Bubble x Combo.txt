@@ -1,0 +1,17 @@
+Tempo gasto para cada método de ordenação
+
+Bubble Sort:
+    Repetições: 1000
+    Quantidade de numeros: 10 / Tempo gasto: 0.0000002000 / Comparacoes: 100 / Trocas: 18  
+    Quantidade de numeros: 100 / Tempo gasto: 0.0000171000 / Comparacoes: 10000 / Trocas: 2532 
+    Quantidade de numeros: 1000 / Tempo gasto: 0.0016000000 / Comparacoes: 1000000 / Trocas: 240502    
+    Quantidade de numeros: 10000 / Tempo gasto: 0.1590999961 / Comparacoes: 100000000 / Trocas: 18671570
+    Quantidade de numeros: 100000 / Tempo gasto: 19.1770000458 / Comparacoes: 1410065408 / Trocas: 473480480
+
+Combo Sort:
+
+    Quantidade de numeros: 10 / Tempo gasto: 0.0000000900 / Comparacoes: 32 / Trocas: 8 / Repetições: 100000
+    Quantidade de numeros: 100 / Tempo gasto: 0.0000019000 / Comparacoes: 1003 / Trocas: 288  / Repetições: 100000
+    Quantidade de numeros: 1000 / Tempo gasto: 0.0000339600 / Comparacoes: 18716 / Trocas: 4393 / Repetições: 100000
+    Quantidade de numeros: 10000 / Tempo gasto: 0.0010000000 / Comparacoes: 336739 / Trocas: 60202 / Repetições: 1
+    Quantidade de numeros: 100000 / Tempo gasto: 0.0149999997 / Comparacoes: 3966759 / Trocas: 671071 / Repetições: 1
